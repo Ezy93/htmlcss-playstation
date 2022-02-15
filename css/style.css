@@ -2,8 +2,17 @@ header{
     font-family: Helvetica, sans-serif;
 }
 
-body{
+main,
+footer{
     font-family: Arial, sans-serif;
+}
+
+ul li img{
+    width: 25px;
+}
+
+.my-dropdown-img{
+    width: 13px;
 }
 
 .my-sony-logo{
