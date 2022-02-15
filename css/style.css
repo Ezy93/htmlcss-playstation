@@ -5,3 +5,13 @@ header{
 body{
     font-family: Arial, sans-serif;
 }
+
+.my-sony-logo{
+    height:20px;
+    background-color: aqua;
+}
+
+.my-jumbotron{
+    height: 400px;
+    background-color: blueviolet;
+}
