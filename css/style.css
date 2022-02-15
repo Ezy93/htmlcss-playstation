@@ -24,16 +24,27 @@ div.btn-secondary{
     background-color: rgb(54, 54, 54);
 }
 
-/* classi da eliminare */
+div.my-jumbotron > div.position-absolute{
+    top:40%
+}
+
+div.my-jumbotron > div.position-absolute > img{
+    transform: scale(30%) translateX(-119%);
+}
+
 .my-sony-logo{
     height:40px;
     background-color: black;
 }
 
 .my-jumbotron{
-    height: 400px;
-    background-color: blueviolet;
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 662px;
 }
+/* classi da eliminare */
+
 
 .my-carosello{
     height: 150px;
