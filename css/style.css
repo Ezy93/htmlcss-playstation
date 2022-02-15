@@ -11,13 +11,23 @@ ul li img{
     width: 25px;
 }
 
+div.my-sony-logo img{
+    width: 70px;
+    margin-right: 9px;
+}
+
 .my-dropdown-img{
     width: 13px;
 }
 
+div.btn-secondary{
+    background-color: rgb(54, 54, 54);
+}
+
+/* classi da eliminare */
 .my-sony-logo{
-    height:20px;
-    background-color: aqua;
+    height:40px;
+    background-color: black;
 }
 
 .my-jumbotron{
