@@ -37,6 +37,10 @@ div.my-jumbotron > div.position-absolute > img{
     background-color: black;
 }
 
+div.my-carosello img{
+    width: 100%;
+}
+
 .my-jumbotron{
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
@@ -46,10 +50,9 @@ div.my-jumbotron > div.position-absolute > img{
 /* classi da eliminare */
 
 
-.my-carosello{
+/* .my-carosello{
     height: 150px;
-    background-color: aqua;
-}
+} */
 
 .my-title-section{
     height: 200px;
