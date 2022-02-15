@@ -39,6 +39,7 @@ div.my-jumbotron > div.position-absolute > img{
 
 div.my-carosello img{
     width: 100%;
+    border-radius: 20px;
 }
 
 .my-jumbotron{
@@ -49,10 +50,6 @@ div.my-carosello img{
 }
 /* classi da eliminare */
 
-
-/* .my-carosello{
-    height: 150px;
-} */
 
 .my-title-section{
     height: 200px;
