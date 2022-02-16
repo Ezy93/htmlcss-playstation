@@ -48,13 +48,16 @@ div.my-carosello img{
     background-repeat: no-repeat;
     height: 662px;
 }
+
+.my-text-grey{
+    color: rgb(141, 141, 141);
+}
+
+.my-text-blue{
+    color: rgb(56, 145, 217);
+}
 /* classi da eliminare */
 
-
-.my-title-section{
-    height: 200px;
-    background-color: coral;
-}
 
 .my-carosello-product{
     height: 150px;
