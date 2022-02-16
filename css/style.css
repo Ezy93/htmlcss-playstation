@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 header{
     font-family: Helvetica, sans-serif;
 }
@@ -28,16 +32,17 @@ div.my-jumbotron > div.position-absolute{
     top:40%
 }
 
-div.my-jumbotron > div.position-absolute > img{
+/* div.my-jumbotron > div.position-absolute > img{
     transform: scale(30%) translateX(-119%);
-}
+} */
 
 div.my-carosello img{
     border-radius: 20px;
 }
 
 div.card{
-    width: calc(100% / 5);
+    width: 173px;
+    padding: 0px;
 }
 
 .my-sony-logo{
@@ -56,6 +61,10 @@ div.my-carosello img{
     background-position: center;
     background-repeat: no-repeat;
     height: 662px;
+}
+
+.my-margin-right{
+    margin-right: 149px;
 }
 
 
