@@ -32,14 +32,23 @@ div.my-jumbotron > div.position-absolute > img{
     transform: scale(30%) translateX(-119%);
 }
 
+div.my-carosello img{
+    border-radius: 20px;
+}
+
+div.card{
+    width: calc(100% / 5);
+}
+
 .my-sony-logo{
     height:40px;
     background-color: black;
 }
 
+
+.my-full-width,
 div.my-carosello img{
     width: 100%;
-    border-radius: 20px;
 }
 
 .my-jumbotron{
@@ -49,9 +58,6 @@ div.my-carosello img{
     height: 662px;
 }
 
-.my-playstation-img{
-    width: 100%;
-}
 
 .my-text-grey{
     color: rgb(141, 141, 141);
