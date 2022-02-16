@@ -87,6 +87,14 @@ div.my-carosello img{
     color: rgb(56, 145, 217);
 }
 
+.my-bg-button{
+    background-color: rgb(217, 218, 220);
+}
+
+.my-bg-psplus{
+    background-color: rgb(190, 188, 187);
+}
+
 #my-bg-new-entry{
     background-color: rgb(31, 31, 31);
 }
