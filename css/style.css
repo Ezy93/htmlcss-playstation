@@ -11,6 +11,10 @@ footer{
     font-family: Arial, sans-serif;
 }
 
+footer{
+    background-color: rgb(0, 67, 156);
+}
+
 ul li img{
     width: 25px;
 }
@@ -72,6 +76,10 @@ div.my-carosello img{
 .my-jumbotron-second{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
+}
+
+footer img.d-inline-block{
+    width: 20px;
 }
 
 .my-margin-right{
