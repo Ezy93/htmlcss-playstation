@@ -82,6 +82,10 @@ footer img.d-inline-block{
     width: 20px;
 }
 
+footer div.col-12 > img{
+    width: 100px;
+}
+
 .my-margin-right{
     margin-right: 149px;
 }
