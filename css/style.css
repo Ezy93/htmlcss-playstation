@@ -47,9 +47,9 @@ div.my-carosello img,
 }
 
 div.card{
-    width: 173px;
+    width: 170px;
     padding: 0px;
-}
+} 
 
 .my-sony-logo{
     height:40px;
@@ -84,10 +84,6 @@ footer img.d-inline-block{
 
 footer div.col-12 > img{
     width: 100px;
-}
-
-.my-margin-right{
-    margin-right: 149px;
 }
 
 
